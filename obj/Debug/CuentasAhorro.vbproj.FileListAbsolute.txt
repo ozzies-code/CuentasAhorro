@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\CuentasAhorro\bin\Debug\CuentasAhorro.exe.config
+C:\Users\oswal\source\repos\CuentasAhorro\bin\Debug\CuentasAhorro.exe
+C:\Users\oswal\source\repos\CuentasAhorro\bin\Debug\CuentasAhorro.pdb
+C:\Users\oswal\source\repos\CuentasAhorro\bin\Debug\CuentasAhorro.xml
+C:\Users\oswal\source\repos\CuentasAhorro\obj\Debug\CuentasAhorro.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\CuentasAhorro\obj\Debug\CuentasAhorro.Form1.resources
+C:\Users\oswal\source\repos\CuentasAhorro\obj\Debug\CuentasAhorro.Resources.resources
+C:\Users\oswal\source\repos\CuentasAhorro\obj\Debug\CuentasAhorro.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\CuentasAhorro\obj\Debug\CuentasAhorro.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\CuentasAhorro\obj\Debug\CuentasAhorro.exe
+C:\Users\oswal\source\repos\CuentasAhorro\obj\Debug\CuentasAhorro.xml
+C:\Users\oswal\source\repos\CuentasAhorro\obj\Debug\CuentasAhorro.pdb
